@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kkt1008 
-- 👀 I’m interested in robotics & autonomous control system
-- 🌱 I’m currently studying deep learning, computer vision, reinforcmnent learning, kalmanfilter
+- 👀 I’m interested in embeded sw development (firmware, BSP, MCU, RTOS)
+- 🌱 I’m currently studying RTOS, firmware, MCU
 - 💞️ I’m looking to collaborate on everyone
 - 📫 How to reach me kt143056@naver.com 
 

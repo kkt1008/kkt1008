@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kkt1008 
-- 👀 I’m interested in embeded sw development (firmware, BSP, MCU, RTOS)
+- 👀 I’m interested in embeded sw development (Firmware, BSP, MCU, RTOS)
 - 🌱 I’m currently studying RTOS, firmware, MCU
 - 💞️ I’m looking to collaborate on everyone
 - 📫 How to reach me kt143056@naver.com 
